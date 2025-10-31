@@ -1,1 +1,2 @@
 # Chocolate-Feast
+This C# program calculates how many chocolates can be eaten given a budget, chocolate price, and a wrapper exchange rate. The `chocolateFeast` function first buys as many chocolates as possible, then repeatedly exchanges wrappers for free chocolates, updating the total count and remaining wrappers until no more exchanges are possible. The `Main` method reads multiple test cases, calls the function for each, and outputs the results.
